@@ -70,6 +70,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
  * [Maxime Chevalier-Boisvert](https://pointersgonewild.com), ZetaVM
 
 ## Postdocs
+* [Liron Cohen](https://www.cs.cornell.edu/~lironcohen/), Cornell University, USA
 * [Malavika Samak](https://sites.google.com/site/malavikasamak/home), MIT, USA
 * [Kristina Sojakova](http://www.cs.cmu.edu/~ksojakov/), Cornell University, USA
 * [Caterina Urban](http://people.inf.ethz.ch/caurban/), ETH Zurich, Switzerland
