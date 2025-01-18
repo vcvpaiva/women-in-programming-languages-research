@@ -28,6 +28,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Eva Darulova](https://malyzajko.github.io/), Uppsala University, Sweden
 * [Işil Dillig](http://www.cs.utexas.edu/~isil/), University of Texas Austin, USA
 * [Rayna Dimitrova](https://www2.le.ac.uk/departments/informatics/people/rayna-dimitrova), University of Leicester, UK
+* [Jenna Wise DiVincenzo](https://www.cs.cmu.edu/~jlwise/), Purdue University, USA
 * [Sophia Drossopoulou](https://wp.doc.ic.ac.uk/sd/), Imperial College London, UK
 * [Jana Dunfield](https://dunfieldlab.ca/), Queen's University, Canada
 * [Sue Eisenbach](http://www.imperial.ac.uk/people/s.eisenbach), Imperial College London, UK
@@ -44,17 +45,20 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Rashina Hoda](https://unidirectory.auckland.ac.nz/profile/r-hoda), University of Auckland, New Zealand
 * [Limin Jia](http://www.andrew.cmu.edu/user/liminjia/), Carnegie Mellon University, USA
 * [Alexandra Jimborean](http://www.it.uu.se/katalog/aleji304), Uppsala University, Sweden
-* [Patricia Johann](https://cs.appstate.edu/~johannp/), Appalachian State University, USA
+* [Patricia Johann](https://cs.appstate.edu/johannp/), Appalachian State University, USA
 * [Maria Jump](http://staff.kings.edu/mariajump/), Kings College, UK
 * [Sara Kalvala](https://warwick.ac.uk/fac/sci/dcs/people/sara_kalvala/), University of Warwick, UK
 * [Gabriele Keller](https://www.cse.unsw.edu.au/~keller/), University of New South Wales, UK
+* [Marie Kerjean](https://www.lipn.univ-paris13.fr/~kerjean/), CNRS, Université Sorbonne Paris Nord, France
 * [Ekaterina Komendantskaya](http://www.macs.hw.ac.uk/~ek19/), Heriot-Watt University, UK
 * [Laura Kovács](http://www.cse.chalmers.se/~laurako/), TU Wien/Chalmers, Austria/Sweden
 * [Chandra Krintz](http://www.cs.ucsb.edu/~ckrintz/), University of California, Santa Barbara, USA
 * [Lindsey Kuper](http://composition.al),  University of California, Santa Cruz, USA
 * [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/), Oxford University, UK
 * [Claire Le Goues](http://www.clairelegoues.com), Carnegie Mellon University, USA
+* [Caroline Lemieux](http://www.carolemieux.com/), University of British Columbia, Vancouver, Canada
 * [Crista Lopes](http://www.ics.uci.edu/~lopes/), University of California, Irvine, USA
+* [Mae Milano](https://cs.princeton.edu/~mpmilano), Princeton University, USA
 * [Ana Milanova](http://www.cs.rpi.edu/~milanova/), Rensselaer Polytechnic Institute, USA
 * [Heather Miller](https://twitter.com/heathercmiller), Northeastern University/EPFL, USA/Switzerland
 * [Mira Mezini](http://www.stg.tu-darmstadt.de/staff/mira_mezini/), TU Darmstadt, Germany
@@ -109,35 +113,36 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Eleni Constantinou](http://www.econst.eu), University of Mons, Belgium
 * [Eva Graversen](https://portal.findresearcher.sdu.dk/en/persons/efgraversen), University of Southern Denmark, Denmark
 * [Jennifer Hackett](http://www.cs.nott.ac.uk/~pszjlh/), University of Nottingham, UK
+* [Anastasia Isychev](https://aisychev.github.io/), TU Wien, Austria
 * [Maria Kechagia](https://mkechagia.github.io/), University College London, UK
-* [Mae Milano](https://people.eecs.berkeley.edu/~mpmilano), University of California Berkeley, USA
 * [Rumyana Neykova](http://mrg.doc.ic.ac.uk/people/rumyana-neykova/), Imperial College London, UK
 * [Zoe Paraskevopoulou](https://zoep.github.io/), Northeastern University, USA
 * [Larisa Safina](https://lsafina.github.io/), INRIA, France
 * [Malavika Samak](https://sites.google.com/site/malavikasamak/home), MIT, USA
 * [Kristina Sojakova](http://www.cs.cmu.edu/~ksojakov/), Cornell University, USA
 * [Hira Taqdees Syeda](https://ts.data61.csiro.au/people/?cn=Hira+Taqdees+Syeda), Data61 CSIRO and UNSW Sydney, Australia
+* [Debasmita Lohar](https://dlohar.github.io/), Karlsruhe Institute of Technology, Germany
 
 ## PhD Students
 * [Leif Andersen](https://leifandersen.net), Northeastern University, USA
 * [Julia Belyakova](https://julbinb.github.io/), Northeastern University, USA
 * [Annie Cherkaev](https://anniecherkaev.com/), University of Utah, USA
 * [Maryam Dabaghchian](https://sites.google.com/site/maryamdabaghchian/), University of Utah, USA
+* [Amelia Dobis](https://www.cs.princeton.edu/~ad4048/), Princeton University, USA
+* [Greta Dolcetti](https://gretadolcetti.github.io/), Ca' Foscari University of Venice, Italy
 * [Juliana Franco](https://www.doc.ic.ac.uk/~jvicent1/), Imperial College London, UK
-* [April Gonçalves](http://cyberglot.me/), Roskilde University, Denmark
+* [April Gonçalves](http://cyberglot.me/), University of Strathclyde, UK
 * [Anna Gommerstadt](http://anyag.net/), Carnegie Mellon University, USA
 * [Sylvia Grewe](http://www.stg.tu-darmstadt.de/staff/sylvia_grewe/sylvia_grewe.en.jsp), Technische Universität Darmstadt, Germany
-* [Anastasiia Izycheva](https://www.in.tum.de/i02/personen/anastasiia-izycheva/), TU Munich, Germany
-* [Marie Kerjean](https://www.irif.fr/~kerjean/), IRIF, France
 * [Wen Kokke](https://wenkokke.github.io/), University of Edinburgh, Scotland
-* [Caroline Lemieux](http://www.carolemieux.com/), University of California, Berkeley, USA
-* [Debasmita Lohar](https://people.mpi-sws.org/~dlohar/), MPI-SWS, Germany
 * [Cristina Matache](http://users.ox.ac.uk/~scro3229/), University of Oxford, UK
+* [Rachel Muir](https://www.linkedin.com/in/rachel-muir00/?originalSubdomain=uk), University of Kent, UK
 * [Jeevana Priya Inala](https://jinala.github.io/), MIT, USA
 * [Juliana Alves Pereira](http://wwwiti.cs.uni-magdeburg.de/~jualves/), University of Magdeburg, Germany
+* [Neea Rusch](https://nkrusch.github.io), Augusta University, USA
 * [Rian Shambaugh](http://cs.umass.edu/~rian), University of Massachusetts Amherst, USA
 * [Jiasi Shen](http://people.csail.mit.edu/jiasi/), MIT, USA
-* [Jenna Wise](https://www.cs.cmu.edu/~jlwise/), Carnegie Mellon University, USA
+* [Tori Vollmer](https://research.kent.ac.uk/programming-languages-systems/person/tori-vollmer/), University of Kent, UK
 * [Katherine Ye](https://cs.cmu.edu/~kqy/), Carnegie Mellon University, USA
 * [Uma Zalakain](https://umazalakain.info/), University of Glasgow, UK
 
